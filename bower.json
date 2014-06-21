@@ -1,0 +1,7 @@
+{
+  "name": "google-calendar#gh-pages",
+  "private": true,
+  "dependencies": {
+    "google-calendar": "GoogleWebComponents/google-calendar#master"
+  }
+}
